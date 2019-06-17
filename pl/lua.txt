@@ -1,0 +1,6 @@
+李闯那个blog 李创
+云风的blog
+The Implementation of Lua 5.0
+https://blog.csdn.net/yuanlin2008/article/category/1307277
+https://www.zhihu.com/question/20617406
+https://book.douban.com/subject/27108476/
